@@ -1,0 +1,7 @@
+.border_red{
+  border: 1px solid #FF0000;
+  border-radius: 10px;
+  width: 30%;
+  height: 400px;
+  margin: 30px auto;
+}

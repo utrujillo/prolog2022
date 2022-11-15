@@ -1,14 +1,16 @@
 import logo from './logo.svg';
 import Hello from './components/Hello/hello';
+import Card from './components/Card';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      Hola mundo
+      <Card />
+      {/* Hola mundo
       <Hello text="Hola" />
       <Hello text="Hola segundo" />
-      <Hello text="Hola mundo desde Hello" />
+      <Hello text="Hola mundo desde Hello" /> */}
       {/* <Hello /> */}
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
