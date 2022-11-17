@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Font-Size */
+.fs_28{ font-size: 28px; }
+.fs_16{ font-size: 16px; }
+.fs_8{ font-size: 8px; }
+
+.fw_bold{ font-weight: bold; }
+.fw_normal{ font-weight: normal; }
+.fw_light{ font-weight: lighter; }
