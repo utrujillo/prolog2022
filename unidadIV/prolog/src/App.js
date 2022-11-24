@@ -1,12 +1,14 @@
 import logo from './logo.svg';
 import Hello from './components/Hello/hello';
 import Card from './components/Card';
+import PokemonList from './components/PokemonList';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <Card />
+      {/* <Card /> */}
+      <PokemonList />
       {/* Hola mundo
       <Hello text="Hola" />
       <Hello text="Hola segundo" />
